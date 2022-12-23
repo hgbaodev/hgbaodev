@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/hgiabaodev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/hgiabaodev.svg" width="1200" alt="hgbaodev-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -47,9 +47,9 @@
 <span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span>
 &nbsp;
 
-<br>
+<!-- <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+//  https://github.com/anuraghazra/github-readme-stats 
 <br>
 <div align=center>
   <a href="#" title="Trungquandev">
@@ -63,7 +63,7 @@
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
-<!-- https://icons8.com -->
+//https://icons8.com
 <div align="center">
   <a href="https://trungquandev.com" target="blank">
     <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
@@ -113,4 +113,4 @@
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
-
+ -->
