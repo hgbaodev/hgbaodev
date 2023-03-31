@@ -65,7 +65,10 @@
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hgbaodev-facebook" />
   </a>
   <a href="https://www.tiktok.com/@hgbaodev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="hgbaodev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="hgbaodev-tiktok" />
+  </a>
+  <a href="https://www.instagram.com/hgbaodev/" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hgbaodev-instagram" />
   </a>
   <a href="mailto:hgbao2k3@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hgbaodev-email" />
