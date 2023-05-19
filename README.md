@@ -75,7 +75,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hgbaodev-instagram" />
   </a>
   <a href="https://www.twitter.com/hgbaodev/" target="blank">
-    <img src="https://img.icons8.com/?size=480&id=13963&format=svg" alt="hgbaodev-twitter" />
+    <img src="https://img.icons8.com/?size=200&id=13963&format=png" alt="hgbaodev-twitter" />
   </a>
   <a href="https://www.pinterest.com/hgbaodev/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/pinterest.png" alt="hgbaodev-pinterest" />
