@@ -65,19 +65,19 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://facebook.com/hgbaodev" target="blank">
+  <a href="https://facebook.com/hgbaodev" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hgbaodev-facebook" />
   </a>
-  <a href="https://www.tiktok.com/@hgbaodev" target="blank">
+  <a href="https://www.tiktok.com/@hgbaodev" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="hgbaodev-tiktok" />
   </a>
-  <a href="https://www.instagram.com/hgbaodev/" target="blank">
+  <a href="https://www.instagram.com/hgbaodev/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hgbaodev-instagram" />
   </a>
-  <a href="https://www.twitter.com/hgbaodev/" target="blank">
+  <a href="https://www.twitter.com/hgbaodev/" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=13963&format=png" alt="hgbaodev-twitter" />
   </a>
-  <a href="https://www.pinterest.com/hgbaodev/" target="blank">
+  <a href="https://www.pinterest.com/hgbaodev/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/pinterest.png" alt="hgbaodev-pinterest" />
   </a>
   <a href="mailto:hgbao2k3@gmail.com" target="top">
