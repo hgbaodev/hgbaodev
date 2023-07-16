@@ -71,6 +71,9 @@
   <a href="https://www.tiktok.com/@hgbaodev" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/tiktok.png" alt="hgbaodev-tiktok" />
   </a>
+  <a href="https://www.youtube.com/@hgbaodev" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube.png" alt="hgbaodev-youtube" />
+  </a>
   <a href="https://www.instagram.com/hgbaodev/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hgbaodev-instagram" />
   </a>
