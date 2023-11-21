@@ -85,7 +85,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hgbaodev-email" />
   </a>
   <a href="https://www.twitter.com/hgbaodev/" target="_blank">
-    <img src="https://img.icons8.com/?size=256&id=108650&format=png" alt="hgbaodev-twitter" />
+    <img src="https://img.icons8.com/?size=100&id=108650&format=png" alt="hgbaodev-twitter" />
   </a>
 </div>
 
