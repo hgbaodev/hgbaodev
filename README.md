@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-<--
+<!--
 <h2 align="center">👽 Where to find me 👽</h2>
 
 <p align="center">
