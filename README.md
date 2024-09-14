@@ -29,13 +29,6 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
-<h2 align="center">📊 GitHub Statistics 📊</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hgbaodev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="hgbaodev's Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hgbaodev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117" alt="hgbaodev's Github Streak" />
-</p>
-
 <h2 align="center">👽 Where to find me 👽</h2>
 
 <p align="center">
