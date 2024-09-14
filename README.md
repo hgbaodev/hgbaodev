@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coder GIF" width="800">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Coder GIF" width="400">
 </p>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
