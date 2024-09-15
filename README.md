@@ -8,7 +8,7 @@ Blockchain Developer | Full-stack Engineer | Continuous Learner
 - Web3: Web3.js, Ethers.js
 - Languages: JavaScript, TypeScript, PHP
 - Frameworks: Hardhat, Truffle, React, Vue.js, Laravel, Node.js
-- Database: MongoDB
+- Database: MySql, MongoDB
 - Frontend: HTML5, CSS3, Sass, Tailwind CSS
 - Version Control: Git
 - IDE: Visual Studio Code, Remix
